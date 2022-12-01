@@ -1,0 +1,4 @@
+нояб. 29, 2022 9:46:26 PM Lecture02.program07 main
+WARNING: Тестовое логирование 1
+нояб. 29, 2022 9:46:26 PM Lecture02.program07 main
+INFO: Тестовое логирование 2
