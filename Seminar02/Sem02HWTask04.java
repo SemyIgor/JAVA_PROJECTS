@@ -5,11 +5,11 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-public class HWTask04 {
+public class Sem02HWTask04 {
    public static void main(String[] args) throws IOException {
       // К калькулятору из предыдущего дз добавить логирование.
 
-      Logger logger = Logger.getLogger(HWTask04.class.getName());
+      Logger logger = Logger.getLogger(Sem02HWTask04.class.getName());
       // ConsoleHandler ch = new ConsoleHandler();
       FileHandler fh = new FileHandler("log.txt");
       // logger.addHandler(ch);

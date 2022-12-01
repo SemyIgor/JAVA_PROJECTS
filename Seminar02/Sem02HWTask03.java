@@ -1,4 +1,4 @@
-public class HWTask03 {
+public class Sem02HWTask03 {
    public static void main(String[] args) {
       /*
        * ** Дана json строка (можно сохранить в файл и читать из файла)

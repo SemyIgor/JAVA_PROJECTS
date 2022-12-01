@@ -1,6 +1,10 @@
-нояб. 29, 2022 11:37:16 PM HWTask04 main
+дек. 01, 2022 7:26:33 PM Sem02HWTask04 main
 WARNING: Внимание! Запуск программы.
-нояб. 29, 2022 11:37:23 PM HWTask04 main
-INFO: Умножение ОК
-нояб. 29, 2022 11:37:23 PM HWTask04 main
+дек. 01, 2022 7:26:51 PM Sem02HWTask04 main
+INFO: Вычитание ОК
+дек. 01, 2022 7:26:51 PM Sem02HWTask04 main
+WARNING: Зафиксирован выход из программы
+дек. 01, 2022 7:26:51 PM Sem02HWTask04 main
+DEBUG: Обнаружена ошибка
+дек. 01, 2022 7:26:51 PM Sem02HWTask04 main
 WARNING: Зафиксирован выход из программы
